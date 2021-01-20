@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-burger-builder-website/static/css/main.103e86cf.chunk.css",
-    "main.js": "/React-burger-builder-website/static/js/main.7a204077.chunk.js",
-    "main.js.map": "/React-burger-builder-website/static/js/main.7a204077.chunk.js.map",
+    "main.js": "/React-burger-builder-website/static/js/main.3fd6f281.chunk.js",
+    "main.js.map": "/React-burger-builder-website/static/js/main.3fd6f281.chunk.js.map",
     "runtime-main.js": "/React-burger-builder-website/static/js/runtime-main.fc75906c.js",
     "runtime-main.js.map": "/React-burger-builder-website/static/js/runtime-main.fc75906c.js.map",
     "static/js/2.58a0b29f.chunk.js": "/React-burger-builder-website/static/js/2.58a0b29f.chunk.js",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.fc75906c.js",
     "static/js/2.58a0b29f.chunk.js",
     "static/css/main.103e86cf.chunk.css",
-    "static/js/main.7a204077.chunk.js"
+    "static/js/main.3fd6f281.chunk.js"
   ]
 }
