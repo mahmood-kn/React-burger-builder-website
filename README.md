@@ -18,7 +18,7 @@ This is a project _using almost all features_ of **React**
 
 ### Live demo
 
-Click [here](https://mahmood-kn.github.io/portfolio-website/ "Portfolio Website") to see the live demo of this project.
+Click [here](https://mahmood-kn.github.io/React-burger-builder-website/ "React Burger Builder") to see the live demo of this project.
 
 ___
 
