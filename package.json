@@ -1,7 +1,7 @@
 {
   "name": "burger-builder",
   "version": "0.1.0",
-  "homepage": "https://mahmood-kn.github.io/React-burger-builder-website/",
+  "homepage": "https://mahmood-kn.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
