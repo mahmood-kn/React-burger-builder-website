@@ -1,0 +1,19 @@
+.OrderSubmited {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 80%;
+  height: 30vh;
+  padding: 1rem 2rem;
+  margin: 2rem auto;
+  box-sizing: border-box;
+  box-shadow: 0 2px 3px #aaa;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}

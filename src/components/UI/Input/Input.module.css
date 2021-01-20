@@ -1,0 +1,47 @@
+.Input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 10px auto;
+  box-sizing: border-box;
+}
+
+.InputEl {
+  width: 100%;
+  padding: 10px;
+  margin: 10px auto;
+  display: block;
+  box-sizing: border-box;
+  /* outline: none; */
+}
+
+.InputEl:focus {
+  /* outline: none; */
+  background-color: #ccc;
+}
+
+.Label {
+  display: block;
+  margin-bottom: 10px;
+  font: inherit;
+  font-weight: bold;
+  text-align: left;
+}
+
+.Select {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.Invalid {
+  border: 1px solid red;
+  background-color: #fc9286;
+}
+
+.validationMsg {
+  color: red;
+  margin: 5px 0;
+  display: block;
+  text-align: left;
+}
