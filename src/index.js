@@ -38,7 +38,7 @@ sagaMiddleware.run(watchOrder);
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter>
+      <BrowserRouter basename='https://mahmood-kn.github.io/React-burger-builder-website/'>
         <App />
       </BrowserRouter>
     </Provider>
